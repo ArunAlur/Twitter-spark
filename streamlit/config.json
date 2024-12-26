@@ -1,0 +1,3 @@
+{
+    "mongoDB": "mongodb+srv://<username>:<password>@<password>.mongodb.net/aggregated.aggregated_data_twitter?retryWrites=true&w=majority"
+}
